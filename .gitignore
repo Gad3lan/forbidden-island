@@ -1,0 +1,5 @@
+
+forbidden-island.iml
+/out/*
+/out/production/forbidden-island/sample/*
+/out/production/forbidden-island/Images/*
